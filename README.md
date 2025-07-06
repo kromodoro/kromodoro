@@ -12,7 +12,7 @@
   <tr>
     <td>PHP [5, 7 , 8]</td>
     <td rowspan="6">Docker</td>
-    <td rowspan="6">AWS</td>
+    <td rowspan="6">AWS / Autodesk</td>
     <td rowspan="3">SOAP</td>
     <td>SCRUM</td>
   </tr>
